@@ -9,12 +9,11 @@ Feel free to explore!
 Missing Data
 <ol>
   <li>Using regular expressions to identify and resolve inconsistencies</li>
-<li>Using the missigno package for data visualization and rpy2 to extract the LittleMCAR function from R, to quantify missingness and determine its mechanism</li>
-<li>Testing and implementing DataWig – a deep learning library for the imputation of missing categorical data<li>
-</ol>
+  <li>Using the missigno package for data visualization and rpy2 to extract the LittleMCAR function from R, to quantify missingness and determine its mechanism</li>
+  <li>Testing and implementing DataWig – a deep learning library for the imputation of missing categorical data<li></ol>
 
 Categorical Data
 <ol>
   <li>Quantifying and reducing cardinality</li>
-<li>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
+  <li>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
 </ol>
