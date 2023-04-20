@@ -9,15 +9,17 @@
 </ol>
 
 
+<a href="https://example.com">Click me!</a>
 
 
-<a href="[https://example.com](https://github.com/ioakeim-h/Data-Engineering/tree/main/Categorical%20Variables)">Categorical Data</a>
+
+<a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Categorical%20Variables">Categorical Data</a>
 <ol>
-  <li><a href="[https://example.com](https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Quantifying%20and%20Reducing%20Cardinality.ipynb)">Cardinality: quantify and reduce</a></li>
-  <li><a href="[https://example.com](https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Encoding%20Categorical%20Variables.ipynb)">Encoding: </a>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
+  <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Quantifying%20and%20Reducing%20Cardinality.ipynb">Cardinality: quantify and reduce</a></li>
+  <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Encoding%20Categorical%20Variables.ipynb">Encoding: </a>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
 </ol>
 
-<a href="[https://example.com](https://github.com/ioakeim-h/Data-Engineering/blob/main/Feature%20Scaling/feature_scaling.ipynb)">Feature Scaling</a>
+<a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Feature%20Scaling/feature_scaling.ipynb">Feature Scaling</a>
 
 
 <a href="https://example.com">Click me!</a>
