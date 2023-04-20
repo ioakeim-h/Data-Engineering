@@ -5,7 +5,7 @@
 <a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Missing%20Data">Missing Data</a>
 <ol>
 <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Exploring%20Missing%20Data.ipynb">EDA: </a>Using regular expressions, visualization techniques, and the LittleMCAR function from R to explore missingness and determine its mechanism</li>
-<li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Deep%20Learning%20Imputation/Testing%20datawig%20.ipynb">Testing</a> and <a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Deep%20Learning%20Imputation/Deep%20Learning%20Imputation%20(datawig).ipynb">implementing</a> DataWig – a deep learning library for the imputation of missing categorical data<li>
+<li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Deep%20Learning%20Imputation/Testing%20datawig%20.ipynb">Testing</a> and <a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Deep%20Learning%20Imputation/Deep%20Learning%20Imputation%20(datawig).ipynb">implementing</a> DataWig – a deep learning library for the imputation of missing categorical data</li>
 </ol>
 
 <a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Categorical%20Variables">Categorical Data</a>
