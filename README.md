@@ -14,13 +14,10 @@
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Encoding%20Categorical%20Variables.ipynb">Encoding: </a>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
 </ol>
 
-<a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Feature%20Scaling/feature_scaling.ipynb">Feature Scaling</a>
-
-
-
 <a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Pandas%20Tools">Pandas Tools</a>
 <ol>
 <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Pandas%20Tools/Fuzzy%20Search/column_value_search.py">Fuzzy Search: </a>Search a dataframe for a specific column name or search a column for a specific string value</li>
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Pandas%20Tools/dtype%20Detector/dtype_detector.py">Data Type Detector: </a>Find numeric, ambiguous, and string values in an object column</li<
 </ol>
 
+<a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Feature%20Scaling/feature_scaling.ipynb">Feature Scaling</a>
