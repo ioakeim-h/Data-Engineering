@@ -8,7 +8,7 @@
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Deep%20Learning%20Imputation/Testing%20datawig%20.ipynb">Testing</a> and <a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Missing%20Data/Deep%20Learning%20Imputation/Deep%20Learning%20Imputation%20(datawig).ipynb">implementing</a> DataWig – a deep learning library for the imputation of missing categorical data</li>
 </ol>
 <br>
-<a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Categorical%20Variables">Categorical Data</a>
+<a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Categorical%20Variables">Categorical Data</a><br>
 <ol>
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Quantifying%20and%20Reducing%20Cardinality.ipynb">Cardinality: </a>Quantify and reduce cardinality</li>
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Encoding%20Categorical%20Variables.ipynb">Encoding: </a>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
