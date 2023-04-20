@@ -4,7 +4,7 @@ This is a personal guide for some interesting techniques in data engineering, es
 Feel free to explore!
 
 
-<u>Contents</u>
+<h3>Contents</h3>
 
 <b>Missing Data</b> <br>
 <ol>
