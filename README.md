@@ -4,13 +4,14 @@ This is a personal guide for some interesting techniques in data engineering, es
 Feel free to explore!
 
 
-<h3><u>Contents</u></h3>
+<h3>Contents</h3>
 
 <b>Missing Data</b> <br>
 <ol>
   <li>Using regular expressions to identify and resolve inconsistencies</li>
   <li>Using the missigno package for data visualization and rpy2 to extract the LittleMCAR function from R, to quantify missingness and determine its mechanism</li>
-  <li>Testing and implementing DataWig – a deep learning library for the imputation of missing categorical data<li></ol>
+  <li>Testing and implementing DataWig – a deep learning library for the imputation of missing categorical data<li>
+</ol>
 
 <b>Categorical Data</b> <br>
 <ol>
