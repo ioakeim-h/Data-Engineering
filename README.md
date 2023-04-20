@@ -8,7 +8,7 @@ Feel free to explore!
 
 Missing Data
 <ol>
-Using regular expressions to identify and resolve inconsistencies.
+  <li>Using regular expressions to identify and resolve inconsistencies</li>
 Using the missigno package for data visualization and rpy2 to extract the LittleMCAR function from R, to quantify missingness and determine its mechanism.
 Testing and implementing DataWig – a deep learning library for the imputation of missing categorical data.
 </ol>
