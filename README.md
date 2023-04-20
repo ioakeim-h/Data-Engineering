@@ -20,4 +20,5 @@
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Pandas%20Tools/dtype%20Detector/dtype_detector.py">Data Type Detector: </a>Find numeric, ambiguous, and string values in an object column</li<
 </ol>
 <br>
+
 <a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Feature%20Scaling/feature_scaling.ipynb">Feature Scaling</a>
