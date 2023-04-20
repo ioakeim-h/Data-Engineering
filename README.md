@@ -10,7 +10,7 @@
 <br>
 <a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Categorical%20Variables">Categorical Data</a>
 <ol>
-  <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Quantifying%20and%20Reducing%20Cardinality.ipynb">Cardinality: </a>quantify and reduce</li>
+  <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Quantifying%20and%20Reducing%20Cardinality.ipynb">Cardinality: </a>Quantify and reduce cardinality</li>
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Categorical%20Variables/Encoding%20Categorical%20Variables.ipynb">Encoding: </a>Popular and evidence-based encoding techniques and potential pitfalls. Methods for both low and high cardinality features</li>
 </ol>
 <br>
