@@ -18,6 +18,7 @@
 <ol>
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Pandas%20Tools/Fuzzy%20Search/column_value_search.py">Fuzzy Search: </a>Search a dataframe for a specific column name or search a column for a specific string value</li>
   <li><a href="https://github.com/ioakeim-h/Data-Engineering/blob/main/Pandas%20Tools/dtype%20Detector/dtype_detector.py">Data Type Detector: </a>Find numeric, ambiguous, and string values in an object column</li>
+  <li><a href="https://github.com/ioakeim-h/Data-Engineering/tree/main/Pandas%20Tools/NonASCII%20Handler">Non-ASCII Handler: Handle non-ascii values in your dataframe or series</a></li>
 </ol>
 <br>
 
