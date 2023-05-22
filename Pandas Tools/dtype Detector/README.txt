@@ -1,1 +1,0 @@
-This program is a Python script that includes a function called find_numeric which receives a pandas Series as input and returns subsets of this Series that contain numeric, ambiguous and string values.
